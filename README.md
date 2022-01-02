@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyaAbulnasr
 - 👀 I’m interested in Data Science Field
-- 🌱 I’m currently learning more & more about the big ocean of machine fields
-- 💞️ I’m seeking a big oppurtunity in working with Data 
+- 🌱 I’m currently learning more & more about the big ocean of the machine field
+- 💞️ I’m seeking a big oppurtunity on working with Data 
 - 📫 How to reach me aya.abulnasr@hotmail.com
 
 <!---
