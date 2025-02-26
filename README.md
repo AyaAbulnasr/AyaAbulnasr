@@ -1,3 +1,5 @@
+In this profile, you will find different projects in Data Analysis, Machine Learning, A/B Testing, Object Detection as well as visualization Dashboards using Power BI and Tableau.
+
 LinkedIn
 https://www.linkedin.com/in/aya-abulnasr-01903/
 
