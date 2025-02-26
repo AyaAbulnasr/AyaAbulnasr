@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @AyaAbulnasr
-- 👀 I’m interested in Data Science Field
-- 🌱 I’m currently learning more & more about the big ocean of the machine field
-- 💞️ I’m seeking a big oppurtunity on working with Data 
-- 📫 How to reach me aya.abulnasr@hotmail.com
+LinkedIn
+https://www.linkedin.com/in/aya-abulnasr-01903/
 
 <!---
 AyaAbulnasr/AyaAbulnasr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
